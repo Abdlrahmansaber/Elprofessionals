@@ -1,0 +1,93 @@
+.navbar-inverse .navbar-toggle,
+{
+		border-color:#244f7a;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.header .arrow i:hover,
+.faq-question .panel-group .panel-heading i,
+.footer .sec .btn:hover,
+#scroll-top,
+ nav.navbar.change-fixed-nav li a:hover,
+ nav.navbar.change-fixed-nav .active a,
+nav.navbar.change-fixed-nav .active a:hover,
+nav.navbar.change-fixed-nav .active a:focus
+{
+	background:#244f7a;
+}
+
+.navbar .navbar-header span,
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav > .open > a, 
+.navbar-inverse .navbar-nav > .open > a:hover, 
+.navbar-inverse .navbar-nav > .open > a:focus,
+.header .carousel-inner .carousel-caption h2,
+.welcome span,
+.features h1 span,
+.services h2 span,
+.skills span,
+.skills .skill-info span,
+.our-team span,
+.statistics h1 span,
+.statistics .stats:hover i,
+.testimonials h1 span,
+.testimonials .carousel-inner .item span,
+.contact-us .fields i,
+.contact-us .fields i,
+.faq h2 span,
+.faq-question .ques h2,
+.faq-question .panel-group .panel-heading i:hover,
+.footer ul li.f i,
+.footer .sec:hover h3 i,
+.footer .fir:hover h3 i,
+.footer .three:hover h3 i,
+.footer .copy-right span,
+#scroll-top:hover
+{
+	color:#244f7a;
+}
+.our-team .image img:hover
+{
+		box-shadow: -2px -2px 3px #244f7a,
+					2px 2px 3px #244f7a;
+}
+nav.navbar.change-fixed-nav
+{
+   -webkit-box-shadow: 4px 10px 20px -6px  rgba(36,79,122,0.75);
+  -moz-box-shadow: 4px 10px 20px -6px  rgba(36,79,122,0.75);
+  box-shadow: 4px 10px 20px -6px  rgba(36,79,122,0.75);
+}
+.subscribe input[type="text"]:focus,
+.contact-us input[type="text"]:focus,
+.contact-us textarea:focus
+{
+		box-shadow: 1px 1px 1px #244f7a inset,
+	   				1px 1px 1px #244f7a;
+}
+
+
+.testimonials .carousel-indicators li.active,
+.faq-question .panel-group .panel-heading i
+{border:3px solid #244f7a;}
+
+.contact-us .fields button,
+.footer .sec .btn
+{background:#244f7a; border-color:#244f7a;} 
+
+.skills .btn,
+.subscribe .btn
+{
+	background:#244f7a; 
+	border-color: #244f7a;
+}
+.skills .btn:hover,
+.subscribe .btn:hover,
+.contact-us .fields button:hover
+{
+	background: #1b3b5b;
+	border-color:#1b3b5b;
+}
